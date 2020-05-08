@@ -7,3 +7,8 @@ Recordar construir los modulos de node si se quiere utilizar localmente con:
 ```
 npm install
 ```
+Correr aplicacion con el siguiente comando:
+
+```
+npm run dev
+```
